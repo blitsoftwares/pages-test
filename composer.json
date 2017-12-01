@@ -1,0 +1,12 @@
+{
+    "name": "blitsoftwares/pages-test",
+    "authors": [
+        {
+            "name": "Lucas R.Pasquetto",
+            "email": "lucas@blitsoft.com.br"
+        }
+    ],
+    "require": {
+      "blitsoftwares/set-location": "dev-master"
+    }
+}
